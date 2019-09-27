@@ -18,10 +18,10 @@ try:
 
     # Please create a Twitter app key here https://apps.twitter.com
     ts = TwitterSearch(
-        consumer_key='hjAiR0bG54BrCfoYo3sYg',
-        consumer_secret='w73bFtBO02jswmjw3ln3jXqyZ9Bwwdslw6ZM1HIBKI',
-        access_token='45871162-XX6R7StzotBFAIxHGGZkZ49GtoxdXFXpkmHi24ZqS',
-        access_token_secret='gpOtpOaOrE9nUrfKu4OAIzqIIUsaRyboMqFDHWnKCRvan'
+        consumer_key='',
+        consumer_secret='',
+        access_token='',
+        access_token_secret=''
     )
 
     count = 1
